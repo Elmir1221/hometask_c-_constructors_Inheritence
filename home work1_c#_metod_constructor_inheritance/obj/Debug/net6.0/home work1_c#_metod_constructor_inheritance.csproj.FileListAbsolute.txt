@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\bin\Debug\net6.0\home work1_c#_metod_constructor_inheritance.exe
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\bin\Debug\net6.0\home work1_c#_metod_constructor_inheritance.deps.json
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\bin\Debug\net6.0\home work1_c#_metod_constructor_inheritance.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\bin\Debug\net6.0\home work1_c#_metod_constructor_inheritance.dll
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\bin\Debug\net6.0\home work1_c#_metod_constructor_inheritance.pdb
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.dll
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\refint\home work1_c#_metod_constructor_inheritance.dll
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.pdb
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\home work1_c#_metod_constructor_inheritance.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\home work1_c#_metod_constructor_inheritance\obj\Debug\net6.0\ref\home work1_c#_metod_constructor_inheritance.dll
