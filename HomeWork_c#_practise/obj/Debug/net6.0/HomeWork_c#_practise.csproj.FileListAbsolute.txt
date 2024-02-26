@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\bin\Debug\net6.0\HomeWork_c#_practise.exe
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\bin\Debug\net6.0\HomeWork_c#_practise.deps.json
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\bin\Debug\net6.0\HomeWork_c#_practise.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\bin\Debug\net6.0\HomeWork_c#_practise.dll
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\bin\Debug\net6.0\HomeWork_c#_practise.pdb
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.dll
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\refint\HomeWork_c#_practise.dll
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.pdb
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\HomeWork_c#_practise.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\HomeWork_c#_practise\obj\Debug\net6.0\ref\HomeWork_c#_practise.dll
